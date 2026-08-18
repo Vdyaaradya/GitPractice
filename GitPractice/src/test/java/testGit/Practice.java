@@ -5,6 +5,9 @@ public class Practice {
 		
 	//random.java
 //		random.
+
+		System.out.println("123456543234565432356");
+		System.out.println("123456543234565432356");
 		System.out.println("123456543234565432356");
 	}
 
